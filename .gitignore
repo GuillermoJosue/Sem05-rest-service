@@ -1,5 +1,5 @@
 HELP.md
-target/
+#target/ #vamos a permir subir este archivo
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
